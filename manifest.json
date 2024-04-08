@@ -2,11 +2,11 @@
   "name": "2024-figma-plugin",
   "id": "1351077558811474880",
   "api": "1.0.0",
-  "main": "code.js",
+  "main": "dist/code.js",
   "capabilities": [],
   "enableProposedApi": false,
   "editorType": ["figma"],
-  "ui": "ui.html",
+  "ui": "dist/ui.html",
   "networkAccess": {
     "allowedDomains": ["none"]
   },

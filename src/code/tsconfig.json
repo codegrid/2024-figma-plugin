@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "target": "ES6",
+    "lib": ["ES6"],
+    "moduleResolution": "Bundler",
+    "noEmit": true,
+    "strict": true,
+    "typeRoots": ["../../node_modules/@types", "../../node_modules/@figma"]
+  }
+}
