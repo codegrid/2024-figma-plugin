@@ -1,0 +1,34 @@
+export const primitiveColorResource = `
+white	#ffffff
+black	#000000
+greenLight1	#fbfefc
+greenLight2	#f4fbf6
+greenLight3	#e6f6eb
+greenLight4	#d6f1df
+greenLight5	#c4e8d1
+greenLight6	#adddc0
+greenLight7	#8eceaa
+greenLight8	#5bb98b
+greenLight9	#30a46c
+greenLight10	#2b9a66
+greenLight11	#218358
+greenLight12	#193b2d
+greenDark1	#0e1512
+greenDark2	#121b17
+greenDark3	#132d21
+greenDark4	#113b29
+greenDark5	#174933
+greenDark6	#20573e
+greenDark7	#28684a
+greenDark8	#2f7c57
+greenDark9	#30a46c
+greenDark10	#33b074
+greenDark11	#3dd68c
+greenDark12	#b1f1cb
+redLight12	#641723
+redDark12	#ffd1d9
+blueLight12	#113264
+blueDark12	#c2e6ff
+yellowLight12	#473b1f
+yellowDark12	#f6eeb4
+`;
