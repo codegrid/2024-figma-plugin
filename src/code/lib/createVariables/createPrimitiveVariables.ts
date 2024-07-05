@@ -1,4 +1,4 @@
-import { primitiveColorResource } from "../resource/primitiveColor";
+import { primitiveColorResource } from "../../resource/primitiveColor";
 
 interface PrimitiveColor {
   name: string;

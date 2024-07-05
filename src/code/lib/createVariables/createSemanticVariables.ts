@@ -1,4 +1,4 @@
-import { semanticColorResource } from "../resource/semanticColor";
+import { semanticColorResource } from "../../resource/semanticColor";
 
 interface SemanticColor {
   nameWithGroup: string;
